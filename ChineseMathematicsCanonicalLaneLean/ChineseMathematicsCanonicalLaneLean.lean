@@ -1,0 +1,12 @@
+import ChineseMathematicsCanonicalLaneLean.AdmissibleClass
+import ChineseMathematicsCanonicalLaneLean.BridgeLemmas
+import ChineseMathematicsCanonicalLaneLean.GateLemmas
+import ChineseMathematicsCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace ChineseMathematicsCanonicalLaneLean
+
+-- Aggregate module: all key files imported
+
+end ChineseMathematicsCanonicalLaneLean
+end HautevilleHouse
